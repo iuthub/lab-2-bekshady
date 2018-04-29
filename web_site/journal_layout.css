@@ -1,0 +1,23 @@
+.container {
+	border: 5px green solid;
+}
+
+.header {
+	border: 5px red solid;
+	color : blue;
+}
+
+.inheader {
+	border: 5px orange solid;
+	color : green;
+	background-color: red;
+}
+
+.content {
+	border : 5px blue solid;
+}
+
+.content .date_content {
+	border: 5px darkviolet solid; 
+	display: inline-block;		 		
+}	
